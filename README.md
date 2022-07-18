@@ -1,3 +1,3 @@
 # Summer-Training
 التدريب الصيفي التابع للأساليب الذكية
-week week2
+week_2
